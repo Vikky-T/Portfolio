@@ -1,4 +1,4 @@
-# This text is violet
+# This text is *violet*
 # 📝 _My Portfolio_
 
 
