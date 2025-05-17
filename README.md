@@ -27,6 +27,6 @@
    
 ---
 
-## 🔗 $`\textcolor{magenta}{\text{Посилання:}}`$ :
-- ⏪ [Повернення на сайт](https://Vikky-T.github.io/Portfolio/)
+## 🔗 $`\textcolor{magenta}{\text{Посилання:}}`$ 
+- ⏪ [Повернення на мій сайт](https://Vikky-T.github.io/Portfolio/)
 - 🏫 [Репозиторій викладача](https://github.com/PorokhovnichenkoIryna/learning_git.git/)
